@@ -1,0 +1,8 @@
+[general]
+name=CaptureCartePlugin
+qgisMinimumVersion=3.0
+description=Plugin pour capturer des images de la carte sur qgis
+version=1.0
+author=ressigui
+email=essiguir@gmail.com
+category=Plugins
